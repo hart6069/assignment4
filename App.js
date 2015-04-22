@@ -11,7 +11,7 @@ height: '30%',
 width: '30%',
 top: '15%'
 });
-myPic.image = '\picofme.jpg';
+pciofme.image = '\picofme.jpg';
 var view1 = Ti.UI.createView({
 backgroundColor: '#CCCCCC',
 top: '40%',
